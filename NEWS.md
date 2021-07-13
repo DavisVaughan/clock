@@ -1,5 +1,8 @@
 # clock (development version)
 
+* tzdb 0.1.2 is now required, which fixes compilation issues on RHEL7/Centos
+  (#234).
+
 # clock 0.3.1
 
 * Parsing into a date-time type that is coarser than the original string is now
